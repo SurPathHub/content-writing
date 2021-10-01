@@ -6,6 +6,7 @@ Outline
 - Introduce the team
 - Introduce our recent events
 - Why you should join?
+- Topics that can cover for blog
 
 
 ## Introduction
@@ -27,3 +28,13 @@ https://github.com/orgs/SurPathHub/projects/2 (introduce the recent event and ho
 
 ## Why you should join?
 (Tell us why they should join to our community)
+
+## Topics that can cover for blog
+1. Introducing SurPath Hub
+2. Your learning during 100 Days of Code
+3. Tutorials related to open source technology (avoid plagiarism try to make your own content)
+4. How open source is really helpful to the society
+5. Code blog
+
+Those topic is just a suggestions to create your own content, you can freely do what you want as long it is related  to the community and open source technology. 😉
+
