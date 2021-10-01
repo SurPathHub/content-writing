@@ -35,6 +35,7 @@ https://github.com/orgs/SurPathHub/projects/2 (introduce the recent event and ho
 3. Tutorials related to open source technology (avoid plagiarism try to make your own content)
 4. How open source is really helpful to the society
 5. Code blog
+6. Journey to become open-sourcerer
 
-Those topic is just a suggestions to create your own content, you can freely do what you want as long it is related  to the community and open source technology. 😉
+Those topics are just a suggestions to create your own content, you can freely do what you want as long it is **related**  to **the community and open source technology**. 😉
 
