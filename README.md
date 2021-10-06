@@ -29,17 +29,17 @@ https://github.com/orgs/SurPathHub/projects/2 (introduce the recent event and ho
 ## Why you should join?
 So why should you join SurPathHub Community? Well,
 
-- If you are an aspiring designer who loves to improvise and be creative 
-You are welcome to join SurPathHub Community!
+- If you are an aspiring designer who loves to improvise and be creative <br>
+***You are welcome to join SurPathHub Community!***
 
-- If you are an aspiring developer who loves to code and create projects
-You are welcome to join SurPathHub Community!
+- If you are an aspiring developer who loves to code and create projects <br>
+***You are welcome to join SurPathHub Community!***
 
-- If you are an aspiring Content Writer who loves to create Articles and Contents
-You are welcome to join SurPathHub Community!
+- If you are an aspiring Content Writer who loves to create Articles and Contents <br>
+***You are welcome to join SurPathHub Community!***
 
-Even if you haven't started learning any programming languages yet or still looking forward to learn something,
-We are very Glad to have you join SurPathHub Community as we can help you make your own roadmap of which path you want to choose
+Even if you haven't started learning any programming languages yet or still looking forward to learn something,<br>
+We are very glad to have you join SurPathHub Community as we can help you make your own roadmap of the path you want to choose. <br>
 No matter where you came from or what you have learned, the community is here for you to help you explore the world of Open Source!
 
 ## Topics that can cover for blog
