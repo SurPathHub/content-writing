@@ -20,8 +20,10 @@ Our aim is to put every Filipino student, career shifter, or aspiring developer 
 ### Vision
 The community vision is to continue living as generations pass with the new leaders and new founders of the community to continue the mission of the community to help and give a second home to the student to grow.
 
-## Teams
-https://surpathhub.org/#team (know the team and introduce them)
+## SurPathHub Team
+![teams](https://user-images.githubusercontent.com/77573336/136346492-3d3cbb7a-05ca-4470-baf0-b0a9e7c05cd5.jpg)
+
+
 
 ## Recent events 
 https://github.com/orgs/SurPathHub/projects/2 (introduce the recent event and host)
