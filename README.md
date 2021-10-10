@@ -26,7 +26,8 @@ The community vision is to continue living as generations pass with the new lead
 
 
 ## Recent events 
-https://github.com/orgs/SurPathHub/projects/2 (introduce the recent event and host)
+![Recent Events](https://user-images.githubusercontent.com/77573336/136699603-b928c58b-c301-41e1-85ff-2fd29cfc7e1f.jpg)
+
 
 ## Why you should join?
 So why should you join SurPathHub Community? Well,
